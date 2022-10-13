@@ -261,3 +261,6 @@ Què signifiquen a Apache les línies de configuració del fitxer owncloud.conf.
 ![1cap](50.png)
 ![1cap](51.png)
 ![1cap](52.png)
+
+
+HOLA GERARD
